@@ -1,4 +1,4 @@
-# 💘 From Raw Data to Revenue Strategy: Valentine Sales Analytics
+# From Raw Data to Revenue Strategy: Valentine Sales Analytics
 
 ## 🧩 Business Challenge
 
